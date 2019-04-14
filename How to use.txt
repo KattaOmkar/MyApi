@@ -1,0 +1,19 @@
+Softwares to be installed 
+Apache Xampp
+Composer PHP
+
+
+In the command prompt type after going to htdocs of Xampp
+composer create-project slim/slim-skeleton MyApi
+
+
+A folder of My Api wil be created then paste the code according to what you needed
+
+
+Import database of users from SQL folder in phpMyAdmin.
+
+
+Change the RestApi according to what you needed.
+
+
+
